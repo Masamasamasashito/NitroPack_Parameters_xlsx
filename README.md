@@ -1,2 +1,2 @@
-# NitroPack_Parameter_xlsx
-NitroPack_Parameter_xlsx
+# NitroPack_Parameters_xlsx
+NitroPack_Parameters_xlsx
